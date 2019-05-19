@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.ws.rs-api-2.0-m02">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Oksana/JavaEE/004_SOAP_AND_RESTful/javax.ws.rs-api-2.0-m02.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
